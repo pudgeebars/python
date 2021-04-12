@@ -1,0 +1,8 @@
+generating new ssh key for windows
+ssh-keygen -t rsa -C username@email
+
+add -u when pushing first time to remote repository
+git push -u origin main
+
+best practice before pushing on to remote repository
+git pull origin main

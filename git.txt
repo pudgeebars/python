@@ -6,3 +6,6 @@ git push -u origin main
 
 best practice before pushing on to remote repository
 git pull origin main
+
+set remote url
+git remote set-url origin 
